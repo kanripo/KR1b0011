@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 夏氏尚書詳解
-#+DATE: 2015-09-23 09:35:54
-#+PROPERTY: JUAN 20
+#+DATE: 2015-08-24 22:01:49.532523
+#+PROPERTY: ID KR1b0011
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十
 <pb:KR1b0011_WYG_020-1a>¶
 欽定四庫全書¶
 　尚書詳解卷二十¶
@@ -1010,4 +1012,3 @@
 　待小人怨詈之道則其言至矣故嘆而言曰嗣王呼¶
 　成王也其當監視我此篇之言欲其動考其所戒也¶
 　尚書詳解卷二十¶
-

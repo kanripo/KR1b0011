@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 夏氏尚書詳解
-#+DATE: 2015-09-23 09:35:54
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:01:49.464593
+#+PROPERTY: ID KR1b0011
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1b0011_WYG_018-1a>¶
 欽定四庫全書¶
 　尚書詳解卷十八¶
@@ -1064,4 +1066,3 @@
 　是既命之後王乃以禾而歸公也不然何以次于微¶
 　子之下哉¶
 　尚書詳解卷十八¶
-
